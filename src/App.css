@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.element{
+  display:"flex",
+
+}
+
+.form {
+  border:"1px solid #ffffff";
+  padding:"5px 10px"
+}
